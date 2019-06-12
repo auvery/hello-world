@@ -3,7 +3,7 @@
   <header>
     <head>
       <style> h1 {
-      color: #e4e4e4
+      color: #e4e4e4;
       }</style>
       <h1> hello-world </h1>
       </head>
